@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useReducer } from "react";
-import { todoReducer } from "../08-useReducer/toDoReducer";
+import { todoReducer } from "./toDoReducer";
 
 /**
  * Función necesaria para guardar los valores que teniamos previamente en el todo
